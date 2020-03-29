@@ -63,7 +63,7 @@ def count_sentences
   sentence_count.count
  
 end
->>>>>>> e6a32d70b0721d589df6706ec4ba23ad50fa4886
+
 
 
 end
