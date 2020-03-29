@@ -51,13 +51,13 @@ def count_sentences
 def count_sentences
   
   sentence_count = []
- self.split(/\.|\?|\!/).each do |x|
+# self.split(/\.|\?|\!/).each do |x|
         
-    sentence_count << x
+#     sentence_count << x
       
     
 
-  # self.split(/\.|\?|\!/).delete_if {|w| w.size < 2}.size
+  self.split(/\.|\?|\!/).delete_if {|w| w.size < 2}.size
 
   end
   sentence_count.count
