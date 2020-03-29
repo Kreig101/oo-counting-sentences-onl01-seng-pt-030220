@@ -33,7 +33,7 @@ end
 
   end
 end
-<<<<<<< HEAD
+
 
 def count_sentences
   
@@ -46,7 +46,7 @@ def count_sentences
 
   end
   
-=======
+
 
 def count_sentences
   
